@@ -1,8 +1,9 @@
 {
-    "name": "ourcodeworld/name-that-color",
+    "name": "ourcodeworld/soft-name-that-color",
     "description": "A non-official PHP port of the NTC JS library to find out the name of the closest matching color.",
     "type": "library",
     "require": {
+        "ourcodeworld/soft-name-that-color": "1.0"
         "php": ">=8.1"
     },
     "license": "mit",
