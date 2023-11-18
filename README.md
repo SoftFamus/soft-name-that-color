@@ -11,7 +11,7 @@ Name That Color can be used either with or without Composer.
 The preferred way to use name-that-color is with Composer. Execute the following command to install this package as a dependency in your project:
 
 ```batch
-composer require ourcodeworld/name-that-color
+composer require ourcodeworld/soft-name-that-color
 ```
 
 ## Without Composer
@@ -29,7 +29,7 @@ $instance = new ColorInterpreter();
 ```
 # Example
 
-Include the ColorInterpreter class and call the name method that returns an array with the closest color interpretation providen by the script. The result array contains three keys:
+Include the ColorInterpreter class and call the name method that returns an array with the closest color interpretation provided by the script. The resulting array contains three keys:
 
 - hex: the hex color of the closest color in the class.
 - name: the human name given to the color.
@@ -55,7 +55,7 @@ array(3) {
 }
 ```
 
-This class offers other utilities as converting an hex color code to HSL or RGB as well in case you need them:
+This class offers other utilities as converting a hex color code to HSL or RGB as well in case you need them:
 
 ```php
 // Include the class
@@ -93,11 +93,11 @@ array(3) {
 The MIT License (MIT)
 =====================
 
-Copyright © 2017 Our Code World
+Copyright © 2023 SoftFamus.com
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
+files (the “Software”), to deal with the Software without
 restriction, including without limitation the rights to use,
 copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the
