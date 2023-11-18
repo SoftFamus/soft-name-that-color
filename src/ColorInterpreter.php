@@ -1,12 +1,12 @@
 <?php
 
 /*
- * (c) Our Code World <dev@ourcodeworld.com>
+ * (c) SoftFamus.com <ytsoftfamus@gmail.com>
  *
- * This library is a PHP port (written by Our Code World) of the JavaScript library NTC JS.
+ * This library is a PHP port (written by SoftFamus) of the JavaScript library NTC JS.
  *
     +-----------------------------------------------------------------+
-    |     Created by Chirag Mehta - http://chir.ag/projects/ntc       |
+    |     Created by SoftFamus - https://softfamus.com       |
     |-----------------------------------------------------------------|
     |               ntc js (Name that Color JavaScript)               |
     +-----------------------------------------------------------------+
@@ -15,7 +15,7 @@
     for the Name that Color JavaScript by Chirag Mehta unless otherwise
     specified.
 
-    http://chir.ag/projects/ntc/
+    https://softfamus.com
  * 
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
